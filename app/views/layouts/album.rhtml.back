@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<tilte> Photo Album </tilte>
+		<%= stylesheet_link_tag "album" %>
+	</head>
+	
+	<body>
+			hogehoge
+	</body>
+	<table>
+		<tr><th class="title">date</th>
+		<th><th class="delete">date</th>
+	</table>
+	<div class="footer">
+		miemasuka??
+	</div>
+
+		
+</html>
